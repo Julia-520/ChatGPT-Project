@@ -61,12 +61,3 @@ $ python3 app.py
 $ deactivate
 ```
 
-## Output (Command Line based)
-Note: I crawled the website www.x.ai
-
-<img src="img/output.png">
-
-## Output (Web Flask based)
-<img src="img/ask.png" width="400px" alt="ask">
-<img src="img/reply1.png" width="400px">
-<img src="img/reply2.png" width="400px">
